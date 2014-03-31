@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matchn", "matchn\matchn.vcxproj", "{E9343FF1-90F4-400A-BEC9-3FECC86755DC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "typelib", "..\typelib\typelib\typelib.vcxproj", "{41DEF228-0340-4356-99FE-FC473A36B1DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9343FF1-90F4-400A-BEC9-3FECC86755DC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9343FF1-90F4-400A-BEC9-3FECC86755DC}.Debug|Win32.Build.0 = Debug|Win32
+		{E9343FF1-90F4-400A-BEC9-3FECC86755DC}.Release|Win32.ActiveCfg = Release|Win32
+		{E9343FF1-90F4-400A-BEC9-3FECC86755DC}.Release|Win32.Build.0 = Release|Win32
+		{41DEF228-0340-4356-99FE-FC473A36B1DE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41DEF228-0340-4356-99FE-FC473A36B1DE}.Release|Win32.ActiveCfg = Release|Win32
+		{41DEF228-0340-4356-99FE-FC473A36B1DE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
